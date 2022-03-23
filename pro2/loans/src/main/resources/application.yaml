@@ -14,13 +14,13 @@ spring:
   # this is to add external configurations
   application:
     name:
-      accounts
+      loans
   profiles:
     active: prod
 
 
 server:
-  port: 8085
+  port: 8086
 
 
 
